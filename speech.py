@@ -5,4 +5,3 @@ engine.setProperty('voice', voices[1].id)
 engine.say("Ronik Ronik")
 engine.runAndWait()
 
-print("hello")
