@@ -1,4 +1,4 @@
-# 8. create a python program to get 3 numbers and find greter number
+# 8. create a python program to get 3 numbers and find greater number
 a = int(input("Enter A: "))
 b = int(input("Enter B: "))
 c = int(input("Enter C: "))
