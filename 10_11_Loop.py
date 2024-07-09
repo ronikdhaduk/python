@@ -8,3 +8,4 @@ while(a <= 5):
 a = int(input("Enter Range: "))
 for i in range(1,a+1):
     print(i)
+    
