@@ -1,3 +1,4 @@
+# 14. create a python program to print Dictionary
 dict = {
     'name' : 'Ronik',
     'surname' : 'dhaduk'
