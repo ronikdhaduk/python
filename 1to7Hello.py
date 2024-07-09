@@ -59,4 +59,3 @@ else:
     amount = unit * 5
     print("Amount is: ", amount)
     
-    
