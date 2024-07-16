@@ -14,7 +14,7 @@ for i in range(rows):
         ascii_value += 1
     print()
     
-# Task : display following pattern
+# 18.Task : display following pattern
 # A
 # A B 
 # A B C
